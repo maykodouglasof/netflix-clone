@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="home-1" src=".github/screen.png" width="100%">
+  <img alt="home" src=".github/Screen.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
