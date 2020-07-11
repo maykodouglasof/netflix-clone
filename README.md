@@ -18,7 +18,7 @@
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- [React](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
 
 ## 💻 Projeto
 
